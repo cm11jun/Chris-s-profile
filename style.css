@@ -1,0 +1,59 @@
+body
+{font-family: Roboto;
+background-color: #7c8584;
+color: #121b28;
+}
+
+h1,h2,h3
+{font-family: open+sans;
+  line-height: 20px;
+  color: #121b28
+}
+
+a
+{text-decoration: none;
+  color: #064420;
+  font-weight: bold;
+  transition: 0.3 ease;
+}
+
+a:hover
+{color: rgb(19, 114, 222)
+}
+
+.card-white {
+  background-color: #9caca8;
+  text-decoration: #121b28;
+  text-align: center;
+  padding: 10px;
+  width: 600px;
+  margin: 20px auto;
+  border-radius: 25px;
+  border: 1px solid;
+}
+
+.img-circle {
+  width: 300px;
+  border-radius: 20%
+  }
+
+.list-inline {
+  padding: 0;
+}
+
+.list-inline li {
+  display: inline;
+}
+
+.btn-purple {
+  color: #121b28;
+  background-color: #bdd4f1;
+  text-align: #121b28;
+  padding: 8px 16px;
+  border-radius: 4px;
+}
+
+.btn-purple:hover {
+  background-color: #baa287;
+  color: #121b28;
+}
